@@ -1,0 +1,13 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>#**Sara Winsemius**
+<center>###And best pal Phoebe
+
+<center>![](pics/IMG_2221.JPG){width=250px}
+
+This is my website about my research and how great my pup is.
+
