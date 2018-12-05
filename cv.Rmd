@@ -1,0 +1,17 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center>##Curriculum Vitae
+<br>
+Last updated September 22, 2018.
+<br>
+
+<object data="pdf/WinsemiusSara_cv.pdf" type = "application/pdf" width = "800px" height = "800px">
+    <embed src = "pdf/WinsemiusSara_cv.pdf">
+    </embed>
+</object>
+
+<br>
