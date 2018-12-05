@@ -3,5 +3,12 @@ output:
   html_document:
     theme: yeti
 ---
+<br>
+<center>Welcome to my website! 
+<br>
 
-##I'm a human with a dog
+<center>![](pics/IMG_4971.JPG){width=500px}
+<br>
+This is a work in progress, please come back later.
+
+<br>

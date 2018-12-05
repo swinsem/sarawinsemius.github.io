@@ -4,4 +4,13 @@ output:
     theme: yeti
 ---
 <br>
-Forests are cool
+<center>![](pics/SW_redfir.JPG){width=250px}
+
+<br>
+Red fir cones are rarely found on the ground because they're so delicious
+<br>
+
+<center>![](pics/20180723_135811.JPG){width=500px}
+
+Measuring tree heights in Kings Canyon National Park
+<br>

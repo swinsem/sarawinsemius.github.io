@@ -5,9 +5,9 @@ output:
 ---
 <br>
 <center>#**Sara Winsemius**
-<center>###And best pal Phoebe
+<center>###Landscape ecology of high elevation forests
 
-<center>![](pics/IMG_2221.JPG){width=250px}
+<center>![](pics/IMG_1501.JPG){width=700px}
 
-This is my website about my research and how great my pup is.
+
 
