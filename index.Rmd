@@ -4,8 +4,10 @@ output:
     theme: yeti
 ---
 <br>
-<center>#**Sara Winsemius**
-<center>###Landscape ecology of high elevation forests
+<center>#**Landscape ecology of high elevation forests**
+<center>###With lots of maps!
+
+
 
 <center>![](pics/IMG_1501.JPG){width=700px}
 
