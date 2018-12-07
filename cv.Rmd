@@ -6,7 +6,7 @@ output:
 <br>
 <center>##Curriculum Vitae
 <br>
-Last updated September 22, 2018.
+Last updated December 6, 2018.
 <br>
 
 <object data="pdf/WinsemiusSara_cv.pdf" type = "application/pdf" width = "800px" height = "800px">

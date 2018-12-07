@@ -4,11 +4,11 @@ output:
     theme: yeti
 ---
 <br>
-<center>Welcome to my website! 
+<center>*Hello!* 
 <br>
 
 <center>![](pics/IMG_4971.JPG){width=500px}
 <br>
-This is a work in progress, please come back later.
+I'm a PhD student at UC Davis in the Graduate Group in Ecology, working with Drs. Yufang Jin and Hugh Safford. I study forest carbon and patterns of change in high elevation forests of the Sierra Nevada. 
 
 <br>

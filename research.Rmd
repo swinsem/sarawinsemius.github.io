@@ -3,14 +3,12 @@ output:
   html_document:
     theme: yeti
 ---
-<br>
-<center>![](pics/SW_redfir.JPG){width=250px}
 
 <br>
-Red fir cones look like delicious pomegranates. No wonder they're hard to find!
-<br>
 
-<center>![](pics/20180723_135811.JPG){width=500px}
+<center>![](pics/20180723_135811.JPG){width=700px}
 
-Measuring tree heights in Kings Canyon National Park
+Measuring tree heights in Kings Canyon National Park during summer 2018 field work. 
+
+
 <br>

@@ -4,7 +4,7 @@ output:
     theme: yeti
 ---
 <br>
-swinsemius@ucdavis.edu
+Send me an email, swinsemius at ucdavis edu
 
 <br> 
-Or visit me in 360 Veihmeyer Hall, UC Davis
+Or visit me in 360 Veihmeyer Hall
