@@ -5,12 +5,8 @@ output:
 ---
 <br>
 <center>#**Landscape ecology of high elevation forests**
-<center>###With lots of maps!
-
-
-
-<center>![](pics/IMG_1501.JPG){width=700px}
-
-
 <br>
-(Maps coming soon...)
+
+<center>![](pics/Meadow_scenic.JPG){width=700px}
+
+

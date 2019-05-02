@@ -7,8 +7,15 @@ output:
 <center>*Hello!* 
 <br>
 
-<center>![](pics/IMG_4971.JPG){width=500px}
+<center>![](pics/SW_about.JPG){width=500px}
 <br>
-I'm a PhD student at UC Davis in the Graduate Group in Ecology, working with Drs. Yufang Jin and Hugh Safford. I study forest carbon and patterns of change in high elevation forests of the Sierra Nevada. 
+I'm a PhD student at UC Davis in the Graduate Group in Ecology, working with Drs. Yufang Jin and Hugh Safford. I study forest carbon, the timing of post-fire mortality, and the patterns and drivers of change in high elevation forests of the Sierra Nevada. 
+
+<br>
+
+<center>![](pics/SW_redfir.JPG){width=300px}
+<br>
+
+Here I am looking stoked with a beautiful red fir cone in one of our plots. They're hard to find because they're delicious to animals and are usually eaten pretty quickly! Along with being a teaching assistant for geospatial classes (Intro to GIS and Environmental Remote Sensing), I have also been a TA for plant identification classes where I lead students around campus looking at trees and plants of the urban forest and arboretum. The fall class (Trees of the Urban Forest) received almost exclusively "excellent" evaluations, with one comment saying "Best class I have ever had"!
 
 <br>
