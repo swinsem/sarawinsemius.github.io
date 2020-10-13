@@ -4,7 +4,7 @@ output:
     theme: yeti
 ---
 <br>
-<center>##Curriculum Vitae
+<center>## Curriculum Vitae
 <br>
 Last updated October 13, 2020.
 <br>
