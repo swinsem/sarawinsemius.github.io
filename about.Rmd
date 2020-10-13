@@ -9,13 +9,14 @@ output:
 
 <center>![](pics/SW_about.JPG){width=500px}
 <br>
-I'm a PhD student at UC Davis in the Graduate Group in Ecology, working with Drs. Yufang Jin and Hugh Safford. I study forest carbon, the timing of post-fire mortality, and the patterns and drivers of change in high elevation forests of the Sierra Nevada. 
+I'm a PhD student at UC Davis in the Graduate Group in Ecology, working with Drs. Yufang Jin and Hugh Safford. I study high elevation forests of the Sierra Nevada, which capture and protect the majority of California's water and contain a third of the state’s forest carbon. They face threats from increasing temperatures, changes in snowpack, and increasing fire and insect mortality. My goals are to develop better carbon mapping of high elevation forests, to study changes in forest structure post fire, and to determine the drivers of change, and I aim to translate all my findings into research briefs for easy access by land managers and policy makers.
+
 
 <br>
 
 <center>![](pics/SW_redfir.JPG){width=300px}
 <br>
 
-Here I am looking stoked with a beautiful red fir cone in one of our plots. They're hard to find because they're delicious to animals and are usually eaten pretty quickly! Along with being a teaching assistant for geospatial classes (Intro to GIS and Environmental Remote Sensing), I have also been a TA for plant identification classes where I lead students around campus looking at trees and plants of the urban forest and arboretum. The fall class (Trees of the Urban Forest) received almost exclusively "excellent" evaluations, with one comment saying "Best class I have ever had"!
+Here I am looking stoked with a beautiful red fir cone in one of our plots. They're hard to find because they're delicious to animals and are usually eaten pretty quickly! Along with being a teaching assistant for geospatial classes (Intro to GIS and Environmental Remote Sensing), I have also been a TA for plant identification classes where I lead students around campus looking at trees and plants of the urban forest and arboretum. I love leading outdoor labs and sharing my love for plants with students.
 
 <br>
