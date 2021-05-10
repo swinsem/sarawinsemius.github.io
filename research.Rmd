@@ -4,7 +4,7 @@ output:
     theme: yeti
 ---
 <br>
-<center>##Research
+<center>## Research
 <br>
 I am building a model to measure aboveground biomass of high elevation forests based on LiDAR and plot measurements, including plots from the Forest Inventory and Analysis (FIA) program, National Park Service Inventory and Monitoring, the US Forest Service Region 5 Remote Sensing Lab, and my own field work. My 2018 and 2019 data collection is in areas of different severity fires across subalpine forests. Tree height and diameter data is converted to biomass through allometric equations, and then related to reflectance data from Landsat satellites in order to map carbon across the whole region.
 <br>
