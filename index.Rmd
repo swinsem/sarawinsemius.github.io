@@ -4,9 +4,11 @@ output:
     theme: yeti
 ---
 <br>
-<center>#**Landscape ecology of high elevation forests**
+
+<center> # **Landscape ecology of high elevation forests**
+
 <br>
 
-<center>![](pics/Meadow_scenic.JPG){width=700px}
+![](pics/Meadow_scenic.JPG){width=700px}
 
 
